@@ -57,26 +57,21 @@ strong{font-size: 18px;}
 
 p{font-size: 14px;}
 
-#square {
+.orange{
     background : rgb(255, 177, 33);
-    color: rgb(255, 177, 33);
     width: 350px;
     height: 20px;
     border-radius: 5px 5px 5px 5px;
 }
-
-#square1 {
+.green{
     background: rgb(65, 235, 65);
-    color: rgb(65, 235, 65);
-    width: 500px;
+    width: 150px;
     height: 20px;
     border-radius: 5px 5px 5px 5px;
 }
-
-#square2 {
+.red{
     background: rgb(255, 58, 58);
-    color: rgb(255, 58, 58);
-    width: 150px;
+    width: 250px;
     height: 20px;
     border-radius: 5px 5px 5px 5px;
 }
