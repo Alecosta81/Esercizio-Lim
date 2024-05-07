@@ -1,0 +1,79 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 1366px 860px;
+    background-repeat: no-repeat;
+}
+
+.container{
+    margin-top: 56px;
+    align-content: center;
+    width: 860px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.65);
+    border-radius: 10px 10px 10px 10px
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.carattere {
+    font-style: normal;
+    font-size: 28px;
+    text-align: center;
+    color: #00ff00;
+    margin-bottom: 0px;
+}
+
+nav{
+    text-align: center;
+    background-color: #00ff00;
+    background-size : 666px 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 30px;
+}
+
+section {
+    line-height: 5px;
+    color: white;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+
+input[type=checkbox] {
+    line-height: 10px;
+    width: 10px;
+    height: 10px;
+}
+
+strong{font-size: 18px;}
+
+p{font-size: 14px;}
+
+#square {
+    background : rgb(255, 177, 33);
+    color: rgb(255, 177, 33);
+    width: 350px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#square1 {
+    background: rgb(65, 235, 65);
+    color: rgb(65, 235, 65);
+    width: 500px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#square2 {
+    background: rgb(255, 58, 58);
+    color: rgb(255, 58, 58);
+    width: 150px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
