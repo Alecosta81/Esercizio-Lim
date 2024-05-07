@@ -1,6 +1,9 @@
 body{
     background-image: url(background.jpg);
-    background-size: 1366px 860px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-repeat: no-repeat;
 }
 
